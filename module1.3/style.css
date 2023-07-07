@@ -1,0 +1,119 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+/* navbar */
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1-px 0px;
+  background-color: black;
+  color: white;
+}
+
+.navbar .logo {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+
+.navbar .nav-content .nav-list {
+  display: flex;
+  gap: 2vw;
+}
+
+.nav-list li.nav-item {
+  list-style: none;
+}
+
+.nav-item {
+  border: 2px solid white;
+  padding: 10px;
+  width: 4vw;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.nav-item:hover {
+  border: 2px solid green;
+  color: white;
+  cursor: pointer;
+  background-color: green;
+}
+
+/* card */
+
+.card {
+  padding: 0 3vw;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.content-body {
+  padding: 10px;
+  margin: 10px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.content-body div.title {
+  font-size: 4vw;
+  font-weight: bolder;
+  color: rgb(39, 99, 39);
+}
+
+.card-list {
+  border: 2px solid rgb(82, 80, 80);
+  border-radius: 10px;
+  width: 14rem;
+}
+
+.card-list img {
+  width: 14rem;
+  height: 14rem;
+  border-radius: 8px;
+}
+
+.card-list .card-title {
+  padding: 10px;
+}
+
+.card .logo-more {
+  font-weight: bolder;
+  padding: 10px;
+}
+
+.card .logo-more:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10%;
+  font-weight: bolder;
+}
+.icons {
+  display: flex;
+  gap: 1vw;
+}
+.icons .icon {
+  font-size: smaller;
+  cursor: pointer;
+}
+.icons .icon:hover {
+  color: rgb(141, 123, 103);
+}
+
+/* footer */
+footer {
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
