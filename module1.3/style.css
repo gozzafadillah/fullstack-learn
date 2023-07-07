@@ -30,17 +30,17 @@ body {
 
 .nav-item {
   border: 2px solid white;
-  padding: 10px;
+  padding: 5px;
   width: 4vw;
   text-align: center;
   border-radius: 10px;
 }
 
 .nav-item:hover {
-  border: 2px solid green;
+  border: 2px solid rgb(57, 179, 57);
   color: white;
   cursor: pointer;
-  background-color: green;
+  background-color: rgb(57, 179, 57);
 }
 
 /* card */
@@ -64,11 +64,19 @@ body {
 .content-body div.title {
   font-size: 4vw;
   font-weight: bolder;
-  color: rgb(39, 99, 39);
+  color: rgb(57, 179, 57);
 }
 
 .card-list {
   border: 2px solid rgb(82, 80, 80);
+  border-radius: 10px;
+  width: 14rem;
+  cursor: pointer;
+}
+.card-list:hover {
+  border: 2px solid white;
+  background-color: rgb(74, 71, 71);
+  color: rgb(224, 219, 219);
   border-radius: 10px;
   width: 14rem;
 }
