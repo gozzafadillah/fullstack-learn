@@ -1,3 +1,7 @@
+# Homework Module 3.1
+
+Ini merupakan langkah-langkah saya membuat collections pada mongoDB, dan disini tools yang saya gunakan adalah mongoDBCompass
+
 ```mongodb
 <!-- create a database -->
 use playlist
