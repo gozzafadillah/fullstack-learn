@@ -1,0 +1,99 @@
+[
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb999c"
+    },
+    "name": "BMTH (Bring Me The Horizon)",
+    "dob": "2004",
+    "genre": ["Metalcore", "Alternative Metal", "Alternative Rock", "Rock Pop"]
+  },
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb999d"
+    },
+    "name": "While She Sleeps",
+    "dob": "2006",
+    "genre": ["Metalcore"]
+  },
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb999e"
+    },
+    "name": "Linkin Park",
+    "dob": "1996",
+    "genre": [
+      "Alternative Rock",
+      "Metal",
+      "Alternative Metal",
+      "Rap Rock",
+      "Electronic Rock",
+      "Pop rock"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb999f"
+    },
+    "name": "Eminem",
+    "dob": "17 Oktober 1972",
+    "genre": ["Hip Hop"]
+  },
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb99a0"
+    },
+    "name": "Nirvana",
+    "dob": "1987",
+    "genre": ["Rock", "Punk Rock"]
+  },
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb99a1"
+    },
+    "name": "The Rolling Stones",
+    "dob": "July 26, 1943",
+    "genre": ["Rock", "Blues", "POP"]
+  },
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb99a2"
+    },
+    "name": "Led Zeppelin",
+    "dob": "September 1968",
+    "genre": ["Hard Rock", "Heavy Metal"]
+  },
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb99a3"
+    },
+    "name": "Rokudenashi",
+    "dob": "2011",
+    "genre": ["POP", "J-Pop"]
+  },
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb99a4"
+    },
+    "name": "Avenged Sevenfold",
+    "dob": "1999",
+    "genre": [
+      "Heavy Metal",
+      "Alternative Metal",
+      "Hard Rock",
+      "Progressive Metal"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64b7f23b94a2764d9bcb99a5"
+    },
+    "name": "Muse",
+    "dob": "1994",
+    "genre": [
+      "Heavy Metal",
+      "Alternative Metal",
+      "Hard Rock",
+      "Progressive Rock"
+    ]
+  }
+]

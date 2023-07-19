@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b0"
+  },
+  "title": "Feel",
+  "plays": 200000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+},
+{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b1"
+  },
+  "title": "Kingslayer",
+  "plays": 180000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+},
+{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b2"
+  },
+  "title": "Shadow Moses",
+  "plays": 160000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+},
+{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b3"
+  },
+  "title": "Venom",
+  "plays": 150000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+},
+{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b4"
+  },
+  "title": "Stairway to Heaven",
+  "plays": 140000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+},
+{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b5"
+  },
+  "title": "Smells Like Teen Spirit",
+  "plays": 130000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+},
+{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b6"
+  },
+  "title": "One Voice",
+  "plays": 120000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+},
+{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b7"
+  },
+  "title": "So Far Away",
+  "plays": 110000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+},
+{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b8"
+  },
+  "title": "Silence Speaks",
+  "plays": 100000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+},
+{
+  "_id": {
+    "$oid": "64b7f4a794a2764d9bcb99b9"
+  },
+  "title": "Time is Running Out",
+  "plays": 90000,
+  "period": "1 Januari 2023 - 30 Juni 2023"
+}]
